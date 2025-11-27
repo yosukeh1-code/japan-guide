@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+fimport React, { useState } from 'react';
 import { HashRouter } from 'react-router-dom';
 import { Navigation } from './components/Navigation';
 import { Home } from './pages/Home';
