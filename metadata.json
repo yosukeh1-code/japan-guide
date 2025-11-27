@@ -1,0 +1,7 @@
+{
+  "name": "NihonGo - Japan Travel Guide",
+  "description": "An intelligent, AI-powered travel guide for international visitors to Japan, featuring real-time assistance, destination discovery, and cultural insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
